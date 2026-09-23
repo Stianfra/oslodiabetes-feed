@@ -1,0 +1,35 @@
+name: Oppdater publikasjonsfeed
+
+on:
+  schedule:
+    - cron: "0 5 * * *"   # hver dag ca. kl. 06:00-07:00 norsk tid
+  workflow_dispatch:       # lar deg starte den manuelt med en knapp
+
+permissions:
+  contents: write
+
+jobs:
+  bygg-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Hent repoet
+        uses: actions/checkout@v4
+
+      - name: Sett opp Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer requests
+        run: pip install requests
+
+      - name: Hent data og lag feed.xml
+        run: python lag_feed.py
+
+      - name: Lagre feed.xml i repoet
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add feed.xml
+          git commit -m "Automatisk oppdatering av feed.xml" || echo "Ingen nye artikler"
+          git push
