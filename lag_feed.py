@@ -123,4 +123,41 @@ def lag_rss(verk):
 
     for w in verk:
         tittel = w.get("title") or "Uten tittel"
-        lenke = w.get("doi") or w.get("id") or
+        lenke = w.get("doi") or w.get("id") or NETTSTED
+
+        forfattere = [a.get("author", {}).get("display_name")
+                      for a in (w.get("authorships") or [])]
+        forfattere = [navn for navn in forfattere if navn]
+        tekst = ", ".join(forfattere[:8])
+        if len(forfattere) > 8:
+            tekst += " m.fl."
+
+        kilde = ((w.get("primary_location") or {})
+                 .get("source") or {}).get("display_name")
+        if kilde:
+            tekst += f" - {kilde}"
+        if w.get("publication_date"):
+            tekst += f" ({w['publication_date']})"
+
+        item = ET.SubElement(kanal, "item")
+        ET.SubElement(item, "title").text = tittel
+        ET.SubElement(item, "link").text = lenke
+        ET.SubElement(item, "description").text = tekst
+        ET.SubElement(item, "guid").text = w["id"]
+        ET.SubElement(item, "pubDate").text = (
+            rfc822(w.get("publication_date"))
+            or format_datetime(dt.datetime.now(dt.timezone.utc)))
+
+    tre = ET.ElementTree(rss)
+    ET.indent(tre, space="  ")
+    tre.write(UTFIL, encoding="utf-8", xml_declaration=True)
+
+
+def main():
+    verk = hent_verk()
+    lag_rss(verk)
+    print(f"ferdig: {UTFIL} med {len(verk)} artikler")
+
+
+if __name__ == "__main__":
+    main()
