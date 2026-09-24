@@ -1,9 +1,17 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Fetches recent publications from OpenAlex (using ORCID IDs)
-and generates an RSS 2.0 feed (feed.xml) that can be served
-via GitHub Pages and consumed by Squarespace.
+Henter de nyeste publikasjonene til forskergruppen fra OpenAlex
+(sok paa ORCID) og skriver en RSS 2.0-fil (feed.xml) som GitHub
+Pages serverer til Squarespace.
+
+Sammendragene (abstract) hentes ordrett fra OpenAlex - dvs. på
+artikkelens originalsprak, som for denne gruppen er engelsk.
+
+description-feltet inneholder to linjer:
+  linje 1: forfattere - tidsskrift (dato)
+  linje 2: kort sammendrag av artikkelen, avkuttet med ...
+Nettside-skriptet deler dette opp i to visningslinjer.
 """
 
 import datetime as dt
@@ -13,15 +21,16 @@ from email.utils import format_datetime
 import requests
 
 # ----------------------------------------------------------------
-# Settings
+# Innstillinger
 # ----------------------------------------------------------------
-MAILTO = "stianfra@uio.no"
-ANTALL_I_FEED = 30
-FRA_MND = 24
-SIDENAVN = "OSLO DIABETES RESEARCH CENTRE"
-NETTSTED = "https://oslodiabetes.no"
-UTFIL = "feed.xml"
-CHUNK = 10
+MAILTO         = "stianfra@uio.no"   # BEHOLD DIN E-POST HER
+ANTALL_I_FEED  = 30      # antall artikler i feeden
+FRA_MND        = 24      # kun publikasjoner fra siste X maneder
+MAKS_TEGN      = 240     # makslengde paa sammendraget
+SIDENAVN       = "Oslo Diabetes Research Centre"
+NETTSTED       = "https://oslodiabetes.no"
+UTFIL          = "feed.xml"
+CHUNK          = 10      # ORCID-er per API-kall
 
 ORCIDS = [
     "0000-0002-9347-9633",  # Anne-Marie Aas
@@ -46,183 +55,4 @@ ORCIDS = [
     "0000-0002-9119-9187",  # Elisabeth Qvigstad
     "0000-0003-2755-4399",  # Hanne Scholz
     "0000-0002-4352-5929",  # Torild Skrivarhaug
-    "0000-0002-5085-7366",  # Line Sletner
-    "0000-0002-7370-8988",  # Christine Sommer
-    "0000-0002-8434-119X",  # Lars Christian M. Stene
-    "0000-0002-1034-9965",  # Kari Anne Sveen
-    "0000-0002-9615-1035",  # Per M. Thorsby
-    "0000-0002-3917-9269",  # Marte K. Viken
-    "0000-0002-5424-7290",  # Line Wisting
-    "0000-0001-9917-4825",  # Christin Wiegels Waage
-]
-
-API = "https://api.openalex.org/works"
-
-
-def rfc822(dato):
-    """Convert YYYY-MM-DD to RFC822 format."""
-    if not dato:
-        return None
-    try:
-        d = dt.date.fromisoformat(str(dato)[:10])
-    except ValueError:
-        return None
-
-    return format_datetime(
-        dt.datetime(
-            d.year,
-            d.month,
-            d.day,
-            tzinfo=dt.timezone.utc
-        )
-    )
-
-
-def hent_verk():
-    samlet = {}
-
-    fra_dato = (
-        dt.date.today() - dt.timedelta(days=FRA_MND * 31)
-    ).isoformat()
-
-    for i in range(0, len(ORCIDS), CHUNK):
-        chunk = ORCIDS[i:i + CHUNK]
-
-        for verdier in (
-            ["https://orcid.org/" + o for o in chunk],
-            chunk,
-        ):
-            f = "author.orcid:" + "|".join(verdier)
-            f += ",from_publication_date:" + fra_dato
-
-            r = requests.get(
-                API,
-                params={
-                    "filter": f,
-                    "sort": "publication_date:desc",
-                    "per-page": 200,
-                    "mailto": MAILTO,
-                },
-                timeout=60,
-            )
-
-            if r.status_code == 200:
-                break
-
-        r.raise_for_status()
-
-        data = r.json()
-        print(f"Group {i // CHUNK + 1}: {data['meta']['count']} matches")
-
-        for w in data["results"]:
-            samlet[w["id"]] = w
-
-    if not samlet:
-        raise RuntimeError(
-            "OpenAlex returned no results. No feed was generated."
-        )
-
-    sortert = sorted(
-        samlet.values(),
-        key=lambda w: str(w.get("publication_date") or ""),
-        reverse=True,
-    )
-
-    return sortert[:ANTALL_I_FEED]
-
-
-def lag_rss(verk):
-    rss = ET.Element("rss", {"version": "2.0"})
-    kanal = ET.SubElement(rss, "channel")
-
-    ET.SubElement(
-        kanal,
-        "title"
-    ).text = f"{SIDENAVN} - Latest Publications"
-
-    ET.SubElement(
-        kanal,
-        "link"
-    ).text = NETTSTED
-
-    ET.SubElement(
-        kanal,
-        "description"
-    ).text = (
-        f"Recent scientific publications from researchers at {SIDENAVN}."
-    )
-
-    ET.SubElement(
-        kanal,
-        "language"
-    ).text = "en"
-
-    ET.SubElement(
-        kanal,
-        "lastBuildDate"
-    ).text = format_datetime(
-        dt.datetime.now(dt.timezone.utc)
-    )
-
-    for w in verk:
-        tittel = w.get("title") or "Untitled"
-        lenke = w.get("doi") or w.get("id") or NETTSTED
-
-        forfattere = [
-            a.get("author", {}).get("display_name")
-            for a in (w.get("authorships") or [])
-        ]
-
-        forfattere = [navn for navn in forfattere if navn]
-
-        tekst = ", ".join(forfattere[:8])
-
-        if len(forfattere) > 8:
-            tekst += " et al."
-
-        kilde = (
-            ((w.get("primary_location") or {})
-             .get("source") or {})
-            .get("display_name")
-        )
-
-        if kilde:
-            tekst += f" - {kilde}"
-
-        if w.get("publication_date"):
-            tekst += f" ({w['publication_date']})"
-
-        item = ET.SubElement(kanal, "item")
-
-        ET.SubElement(item, "title").text = tittel
-        ET.SubElement(item, "link").text = lenke
-        ET.SubElement(item, "description").text = tekst
-        ET.SubElement(item, "guid").text = w["id"]
-
-        ET.SubElement(
-            item,
-            "pubDate"
-        ).text = (
-            rfc822(w.get("publication_date"))
-            or format_datetime(
-                dt.datetime.now(dt.timezone.utc)
-            )
-        )
-
-    tre = ET.ElementTree(rss)
-    ET.indent(tre, space="  ")
-    tre.write(
-        UTFIL,
-        encoding="utf-8",
-        xml_declaration=True
-    )
-
-
-def main():
-    verk = hent_verk()
-    lag_rss(verk)
-    print(f"Done: {UTFIL} with {len(verk)} articles")
-
-
-if __name__ == "__main__":
-    main()
+    "0000-0002-5085-7366",  # Line S
