@@ -5,7 +5,15 @@
     <link>https://oslodiabetes.no</link>
     <description>Recent publications from researchers at Oslo Diabetes Research Centre.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 06:49:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 05:00:56 +0000</lastBuildDate>
+    <item>
+      <title>Low Prevalence of Exploratory Biochemical Patterns Compatible with Osteomalacia in a Large Cohort of Participants with Low Serum 25-Hydroxyvitamin D Levels</title>
+      <link>https://doi.org/10.1007/s00223-026-01612-9</link>
+      <description>Rolf Jorde, Per Medbøe Thorsby, Guri Grimnes - Calcified Tissue International (2026-09-23)
+The threshold for vitamin D deficiency is mainly based on osteomalacia prevention. Osteomalacia is diagnosed by bone biopsy, but may potentially also be identified biochemically. Our objective was to examine the prevalence of exploratory …</description>
+      <guid>https://openalex.org/W7214095550</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Exercise remodels the circulating extracellular particle proteome in men</title>
       <link>https://doi.org/10.1186/s12933-026-03374-y</link>
@@ -93,9 +101,17 @@ OBJECTIVE: Women with type 1 diabetes (T1D) tend to have fewer children and the 
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Effects of gestational weight gain and HbA1C on fetal growth and birthweight in women with obesity</title>
+      <link>https://doi.org/10.1111/aogs.70298</link>
+      <description>Maja Lecic Bonnichsen, Elisabeth Qvigstad, Lill Trine Nyfløt, Guttorm Haugen, William R. P. Denault, Marie Cecilie Roland - Acta Obstetricia Et Gynecologica Scandinavica (2026-08-12)
+Abstract Introduction Fetal growth and birthweight are influenced by various endogenous and exogenous factors during pregnancy. Pregnant women with obesity face higher rates of complications, which can impact fetal growth. This study aims …</description>
+      <guid>https://openalex.org/W7202284084</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Investigating the potential causal relationship between parity and long-term maternal cardiometabolic health outcomes using Mendelian randomization</title>
       <link>https://doi.org/10.64898/2026.08.09.26360053</link>
-      <description>Caroline Brito Nunes, Abigail Fraser, Gunn-Helen Moen, Alesha A Hatton, David Evans - medRxiv (2026-08-11)
+      <description>Caroline Brito Nunes, Abigail Fraser, Gunn-Helen Moen, Alesha A. Hatton, David M Evans - medRxiv (2026-08-11)
 Abstract Background Multiple observational studies have reported associations between greater parity and increased CVD risk. Whether these associations reflect causal effects or are confounded by socioeconomic factors remains unclear …</description>
       <guid>https://openalex.org/W7202177122</guid>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
@@ -213,7 +229,7 @@ Sex-stratified GWAS of hypertension, performed in UK Biobank participants of Eur
     <item>
       <title>Maternal Intake of Vitamins A, C, D, and E During Pregnancy and Risk of Type 1 Diabetes in the Child: The Norwegian Mother, Father, and Child Cohort Study</title>
       <link>https://doi.org/10.1016/j.ajcnut.2026.101431</link>
-      <description>Markus Mattila, German Tapia, Ketil Størdal, Anne-Lise Brantsæter, Suvi M. Virtanen, Nicolai A. Lund-Blix, Torild Skrivarhaug, Elin M. Hård af Segerstad et al. - American Journal of Clinical Nutrition (2026-07-10)
+      <description>Markus Mattila, German Tapia, Ketil Størdal, Anne-Lise Brantsæter, Suvi M. Virtanen, Nicolai A. Lund‐Blix, Torild Skrivarhaug, Elin M. Hård af Segerstad et al. - American Journal of Clinical Nutrition (2026-07-10)
 BACKGROUND: Dietary vitamins play a role in antioxidant defense and immunoregulation. However, prospective studies exploring the association between vitamin intakes during pregnancy and the child's risk of type 1 diabetes are limited …</description>
       <guid>https://openalex.org/W7167940028</guid>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
@@ -225,21 +241,6 @@ BACKGROUND: Dietary vitamins play a role in antioxidant defense and immunoregula
 Preeclampsia is a serious pregnancy complication with unclear etiology, making early detection challenging but imperative to improve prognosis. We here examine the potential roles of protein-coding and long non-coding (lnc) RNA from …</description>
       <guid>https://openalex.org/W7167795791</guid>
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Circulating neutrophil extracellular traps and deoxyribonuclease in gestational diabetes mellitus</title>
-      <link>https://doi.org/10.1016/j.jri.2026.104928</link>
-      <description>Birgitte K. Sundet, Bendik S. Fiskå, Anne Cathrine Staff, Dag Jacobsen, Vibeke Bratseth, Sheryl Palmero, Kristine M. Kindberg, Ragnhild M. Helseth et al. - Journal of Reproductive Immunology (2026-06-27)
-Neutrophil extracellular traps (NETs) are networks of extracellular DNA, protein and enzymes formed by activated neutrophils and degraded by deoxyribonuclease (DNase). Maternal circulating NETs levels are altered in placental …</description>
-      <guid>https://openalex.org/W7166356850</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Erratum. Diabetes Body Project: Acute Effects of an Eating Disorder Prevention Program for Young Women With Type 1 Diabetes. A Multinational Randomized Controlled Trial. Diabetes Care 2025;48:220–225</title>
-      <link>https://doi.org/10.2337/dc26-er09a</link>
-      <description>Mareille H.C.L. Hennekes, Severina Haugvik, Maartje de Wit, Elena Toschi, Christopher D. Desjardins, Torild Skrivarhaug, Knut Dahl‐Jørgensen, Eric Stice et al. - Diabetes Care (2026-06-23)</description>
-      <guid>https://openalex.org/W7165633256</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
