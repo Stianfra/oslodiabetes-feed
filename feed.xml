@@ -5,7 +5,7 @@
     <link>https://oslodiabetes.no</link>
     <description>Recent publications from researchers at Oslo Diabetes Research Centre.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 05:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 05:00:47 +0000</lastBuildDate>
     <item>
       <title>Low Prevalence of Exploratory Biochemical Patterns Compatible with Osteomalacia in a Large Cohort of Participants with Low Serum 25-Hydroxyvitamin D Levels</title>
       <link>https://doi.org/10.1007/s00223-026-01612-9</link>
@@ -17,7 +17,7 @@ The threshold for vitamin D deficiency is mainly based on osteomalacia preventio
     <item>
       <title>Exercise remodels the circulating extracellular particle proteome in men</title>
       <link>https://doi.org/10.1186/s12933-026-03374-y</link>
-      <description>Shirin Pourteymour, Sindre Lee-Ødegård, Albert Stefan Vlad, Christian A. Drevon, Kåre I. Birkeland, Frode A. Norheim - Cardiovascular Diabetology (2026-09-20)
+      <description>Shirin Pourteymour, Sindre Lee-Ødegård, Albert Stefan Vlad, Christian A. Drevon, Kåre I. Birkeland, Frode Amador Norheim - Cardiovascular Diabetology (2026-09-20)
 Extracellular particles (EPs), including extracellular vesicles, are emerging mediators of inter-organ communication with growing relevance to cardiometabolic health. Whereas acute exercise mobilizes EV-associated proteins into the …</description>
       <guid>https://openalex.org/W7213754340</guid>
       <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
@@ -46,6 +46,13 @@ Purpose Assessment of cortisol secretion in patients with adrenal incidentalomas
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Survival of Transplanted Allogeneic Beta Cells with No Immunosuppression</title>
+      <link>https://doi.org/10.1530/ey.23.10.18</link>
+      <description>Carlsson PO, Hu X, Hanne Scholz, Sofie Ingvast, Torbjörn Lundgren, Tim Scholz, Eriksson O, Liss P et al. - Yearbook of pediatric endocrinology (2026-09-03)</description>
+      <guid>https://openalex.org/W7211882691</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Classification of type 1 diabetes and type 2 diabetes based on administrative registry data: a nationwide study from Norway</title>
       <link>https://doi.org/10.1177/14034948261460921</link>
       <description>Paz Lopez‐Doriga Ruiz, Lars C. Stene, Karianne Fjeld Løvaas, Grethe Åstrøm Ueland, Tone Vonheim Madsen, Kåre I. Birkeland, Hanne Løvdal Gulseth, Robert Wiik et al. - Scandinavian Journal of Public Health (2026-08-29)
@@ -56,7 +63,7 @@ Abstract Background Type 1 diabetes (T1D) and type 2 diabetes (T2D) differ in he
     <item>
       <title>TSHR Gly413Ser in familial nonautoimmune hyperthyroidism: a case report</title>
       <link>https://doi.org/10.1515/jpem-2025-0617</link>
-      <description>Oskar Kelp, Jostein Førsvoll, Franziska Bischof, Claudia Stäubert, Torsten Schöneberg, Hanne Gro Olsen, Asgeir Lande, Siri Carlsen et al. - Journal of Pediatric Endocrinology and Metabolism (2026-08-29)
+      <description>Oskar Kelp, Jostein A. Førsvoll, Franziska Bischof, Claudia Stäubert, Torsten Schöneberg, Hanne Gro Olsen, Asgeir Lande, Siri Carlsen et al. - Journal of Pediatric Endocrinology and Metabolism (2026-08-29)
 OBJECTIVES: ) and can mimic antibody-negative Graves' disease. We report a family with hyperthyroidism and the TSHR variant Gly413Ser and provide clinical, segregation, and functional evidence that this p10-region variant is a novel cause …</description>
       <guid>https://openalex.org/W7204647805</guid>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
@@ -68,6 +75,14 @@ OBJECTIVES: ) and can mimic antibody-negative Graves' disease. We report a famil
 AIMS/HYPOTHESIS: Environmental factors, including infections, have been suspected to influence the risk of type 1 diabetes. Studies of rotavirus vaccine and risk of type 1 diabetes have shown conflicting results. We took advantage of the …</description>
       <guid>https://openalex.org/W7204545893</guid>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Perioperative propranolol during robotic‐assisted radical prostatectomy: A randomised, double‐blind, placebo‐controlled, pilot trial (PeP‐RALP)</title>
+      <link>https://doi.org/10.1002/bco2.70267</link>
+      <description>Shivanthe Sivanesan, H. Ramberg, Thomas Kristiansen, Suraj Bahadur Thapa, Marthe Bjøre, Viktor Berge, Fredrik Ottosson, Bjørn Brennhovd et al. - BJUI Compass (2026-08-26)
+Objective: This study aimed to determine the feasibility and safety of administering perioperative propranolol, as an adjunct to reduce prostate cancer recurrence, in patients undergoing robotic-assisted laparoscopic prostatectomy (RALP) …</description>
+      <guid>https://openalex.org/W7204484005</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Hypoimmune platforms: from rejection to immune evasion and regulatory implications</title>
@@ -103,7 +118,7 @@ OBJECTIVE: Women with type 1 diabetes (T1D) tend to have fewer children and the 
     <item>
       <title>Effects of gestational weight gain and HbA1C on fetal growth and birthweight in women with obesity</title>
       <link>https://doi.org/10.1111/aogs.70298</link>
-      <description>Maja Lecic Bonnichsen, Elisabeth Qvigstad, Lill Trine Nyfløt, Guttorm Haugen, William R. P. Denault, Marie Cecilie Roland - Acta Obstetricia Et Gynecologica Scandinavica (2026-08-12)
+      <description>Maja Lecic Bonnichsen, Elisabeth Qvigstad, Lill Trine Nyfløt, Guttorm Nils Haugen, William R. P. Denault, Marie Cecilie Paasche Roland - Acta Obstetricia Et Gynecologica Scandinavica (2026-08-12)
 Abstract Introduction Fetal growth and birthweight are influenced by various endogenous and exogenous factors during pregnancy. Pregnant women with obesity face higher rates of complications, which can impact fetal growth. This study aims …</description>
       <guid>https://openalex.org/W7202284084</guid>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
@@ -115,6 +130,22 @@ Abstract Introduction Fetal growth and birthweight are influenced by various end
 Abstract Background Multiple observational studies have reported associations between greater parity and increased CVD risk. Whether these associations reflect causal effects or are confounded by socioeconomic factors remains unclear …</description>
       <guid>https://openalex.org/W7202177122</guid>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analysis code: plasma extracellular particle-enriched proteome after exercise training</title>
+      <link>https://doi.org/10.5281/zenodo.21849647</link>
+      <description>Sindre Lee-Ødegård - Zenodo (CERN European Organization for Nuclear Research) (2026-08-08)
+Analysis and figure code for a study of the plasma extracellular particle-enriched proteome before and after 12 weeks of combined endurance and resistance training (MyoGlu). Includes the numeric source data behind the figure panels …</description>
+      <guid>https://openalex.org/W7201974611</guid>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analysis code: plasma extracellular particle-enriched proteome after exercise training</title>
+      <link>https://doi.org/10.5281/zenodo.21849646</link>
+      <description>Sindre Lee-Ødegård - Zenodo (CERN European Organization for Nuclear Research) (2026-08-08)
+Analysis and figure code for a study of the plasma extracellular particle-enriched proteome before and after 12 weeks of combined endurance and resistance training (MyoGlu). Includes the numeric source data behind the figure panels …</description>
+      <guid>https://openalex.org/W7201991045</guid>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Immigrant parents’ perspectives on healthy growth in children: a qualitative study</title>
@@ -158,7 +189,7 @@ BACKGROUND: Living kidney donation is regarded safe, though recent studies raise
     <item>
       <title>The impact of transition from paper to electronic death records on garbage codes in the Norwegian Cause of Death Registry 2018–2023</title>
       <link>https://doi.org/10.1186/s12889-026-28607-3</link>
-      <description>Ingeborg Forthun, Christian Lycke Ellingsen, Carl Michael Baravelli, Kari Anne Sveen, Anne Gro Pedersen, Pétur Benedikt Júlíusson, Ann Kristin Skrindo Knudsen, Marianne Strøm - BMC Public Health (2026-08-03)
+      <description>Ingeborg Forthun, Christian Lycke Ellingsen, Carl Michael Baravelli, Kari Anne Sveen, Anne Gro Pedersen, Pétur Benedikt Júlíusson, Ann Kristin Knudsen, Marianne Sørlie Strøm - BMC Public Health (2026-08-03)
 Abstract Background In 2018, electronic death certification was gradually introduced in the Norwegian Cause of Death Registry (NCoDR). Electronic certification was made mandatory from 2022. This may have affected the use and pattern of …</description>
       <guid>https://openalex.org/W7172246149</guid>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
@@ -210,37 +241,6 @@ Sex-stratified GWAS of myocardial infarction, performed in UK Biobank participan
 Sex-stratified genome-wide association study (GWAS) of angina, performed in UK Biobank participants of European ancestry. Case/control definitions are provided in Supplementary Table 3. Individuals who withdrew consent or failed standard …</description>
       <guid>https://openalex.org/W7168284361</guid>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sex-specific GWAS summary statistics for hypertension from "Investigating the potential causal relationship between parity and long-term maternal cardiometabolic health outcomes using Mendelian randomization"</title>
-      <link>https://doi.org/10.48610/441be18</link>
-      <description>Caroline Brito Nunes, David Evans, Caroline Brito Nunes, Gunn-Helen Moen - The University of Queensland (2026-07-14)
-Sex-stratified GWAS of hypertension, performed in UK Biobank participants of European ancestry. Case/control definitions are provided in Supplementary Table 3. Individuals who withdrew consent or failed standard quality checks (e.g., sex …</description>
-      <guid>https://openalex.org/W7168293809</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Long-Term Survival of Hypoimmune Allogeneic Islets without Immunosuppression</title>
-      <link>https://doi.org/10.1056/nejmc2604408</link>
-      <description>Per‐Ola Carlsson, Xiaomeng Hu, Hanne Scholz, Torbjörn Lundgren, Sofie Ingvast, Tim Scholz, Olof Eriksson, Per Liss et al. - New England Journal of Medicine (2026-07-10)</description>
-      <guid>https://openalex.org/W7167920457</guid>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Maternal Intake of Vitamins A, C, D, and E During Pregnancy and Risk of Type 1 Diabetes in the Child: The Norwegian Mother, Father, and Child Cohort Study</title>
-      <link>https://doi.org/10.1016/j.ajcnut.2026.101431</link>
-      <description>Markus Mattila, German Tapia, Ketil Størdal, Anne-Lise Brantsæter, Suvi M. Virtanen, Nicolai A. Lund‐Blix, Torild Skrivarhaug, Elin M. Hård af Segerstad et al. - American Journal of Clinical Nutrition (2026-07-10)
-BACKGROUND: Dietary vitamins play a role in antioxidant defense and immunoregulation. However, prospective studies exploring the association between vitamin intakes during pregnancy and the child's risk of type 1 diabetes are limited …</description>
-      <guid>https://openalex.org/W7167940028</guid>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PBMC-derived RNA signatures show impaired ability to regulate immune responses in women developing preeclampsia</title>
-      <link>https://doi.org/10.1093/biolre/ioag143</link>
-      <description>Monica Frøystad, Thor Ueland, Marie Cecilie Paasche Roland, Tove Lekva - Biology of Reproduction (2026-07-07)
-Preeclampsia is a serious pregnancy complication with unclear etiology, making early detection challenging but imperative to improve prognosis. We here examine the potential roles of protein-coding and long non-coding (lnc) RNA from …</description>
-      <guid>https://openalex.org/W7167795791</guid>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
