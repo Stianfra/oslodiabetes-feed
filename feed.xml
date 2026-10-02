@@ -5,7 +5,15 @@
     <link>https://oslodiabetes.no</link>
     <description>Recent publications from researchers at Oslo Diabetes Research Centre.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 05:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 05:01:56 +0000</lastBuildDate>
+    <item>
+      <title>Hand and shoulder diagnoses are associated with substantial bodily pain compared to vascular complications and long-term glycaemic control in people with long-term type 1 diabetes.</title>
+      <link>https://doi.org/10.1186/s41687-026-01199-7</link>
+      <description>Anne Karin Molvær, Iversen Marjolein Memelink, Jannicke Igland, M Peyrot, Grethe Seppola Tell, Tore Julsrud Berg - Journal of Patient-Reported Outcomes (2026-09-30)
+Abstract Background People with type 1 diabetes are burdened by musculoskeletal hand and shoulder diagnoses and vascular late complications. We aimed to explore associations of musculoskeletal diagnoses, 30-year HbA1c and vascular …</description>
+      <guid>https://openalex.org/W7214971174</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Low Prevalence of Exploratory Biochemical Patterns Compatible with Osteomalacia in a Large Cohort of Participants with Low Serum 25-Hydroxyvitamin D Levels</title>
       <link>https://doi.org/10.1007/s00223-026-01612-9</link>
@@ -232,14 +240,6 @@ Sex-stratified GWAS of basal metabolic rate (BMR), performed in UK Biobank parti
       <description>Caroline Brito Nunes, David Evans, Caroline Brito Nunes, Gunn-Helen Moen - The University of Queensland (2026-07-14)
 Sex-stratified GWAS of myocardial infarction, performed in UK Biobank participants of European ancestry. Case/control definitions are provided in Supplementary Table 3. Individuals who withdrew consent or failed standard quality checks …</description>
       <guid>https://openalex.org/W7168259192</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sex-specific GWAS summary statistics for angina from "Investigating the potential causal relationship between parity and long-term maternal cardiometabolic health outcomes using Mendelian randomization"</title>
-      <link>https://doi.org/10.48610/6bf12ce</link>
-      <description>Caroline Brito Nunes, David Evans, Caroline Brito Nunes, Gunn-Helen Moen - The University of Queensland (2026-07-14)
-Sex-stratified genome-wide association study (GWAS) of angina, performed in UK Biobank participants of European ancestry. Case/control definitions are provided in Supplementary Table 3. Individuals who withdrew consent or failed standard …</description>
-      <guid>https://openalex.org/W7168284361</guid>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
