@@ -5,7 +5,14 @@
     <link>https://oslodiabetes.no</link>
     <description>Recent publications from researchers at Oslo Diabetes Research Centre.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 05:03:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 05:02:37 +0000</lastBuildDate>
+    <item>
+      <title>Embryonic EMT programs establish proteoglycan expression patterns that persist in adult human tissues</title>
+      <link>https://doi.org/10.21203/rs.3.rs-11070727/v1</link>
+      <description>Saikat Das Sajib, Anne Kristin McLaren Berge, Taufeeq Nii Korquaye Quaye, Kjersti Sellæg, Beate Hegge, Catherine L.R. Merry, Svein O. Kolset, Susannah von Hofsten et al. - Research Square (2026-10-08)</description>
+      <guid>https://openalex.org/W7220913350</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Hand and shoulder diagnoses are associated with substantial bodily pain compared to vascular complications and long-term glycaemic control in people with long-term type 1 diabetes.</title>
       <link>https://doi.org/10.1186/s41687-026-01199-7</link>
@@ -138,14 +145,6 @@ Abstract Introduction Fetal growth and birthweight are influenced by various end
 Abstract Background Multiple observational studies have reported associations between greater parity and increased CVD risk. Whether these associations reflect causal effects or are confounded by socioeconomic factors remains unclear …</description>
       <guid>https://openalex.org/W7202177122</guid>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Analysis code: plasma extracellular particle-enriched proteome after exercise training</title>
-      <link>https://doi.org/10.5281/zenodo.21849647</link>
-      <description>Sindre Lee-Ødegård - Zenodo (CERN European Organization for Nuclear Research) (2026-08-08)
-Analysis and figure code for a study of the plasma extracellular particle-enriched proteome before and after 12 weeks of combined endurance and resistance training (MyoGlu). Includes the numeric source data behind the figure panels …</description>
-      <guid>https://openalex.org/W7201974611</guid>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Analysis code: plasma extracellular particle-enriched proteome after exercise training</title>
