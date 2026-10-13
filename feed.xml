@@ -5,7 +5,7 @@
     <link>https://oslodiabetes.no</link>
     <description>Recent publications from researchers at Oslo Diabetes Research Centre.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Oct 2026 05:05:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 05:05:51 +0000</lastBuildDate>
     <item>
       <title>Embryonic EMT programs establish proteoglycan expression patterns that persist in adult human tissues</title>
       <link>https://doi.org/10.21203/rs.3.rs-11070727/v1</link>
@@ -16,7 +16,7 @@
     <item>
       <title>Hand and shoulder diagnoses are associated with substantial bodily pain compared to vascular complications and long-term glycaemic control in people with long-term type 1 diabetes.</title>
       <link>https://doi.org/10.1186/s41687-026-01199-7</link>
-      <description>Anne Karin Molvær, Iversen Marjolein Memelink, Jannicke Igland, M Peyrot, Grethe Seppola Tell, Tore Julsrud Berg - Journal of Patient-Reported Outcomes (2026-09-30)
+      <description>Anne Karin Molvær, Marjolein M. Iversen, Jannicke Igland, M Peyrot, Grethe Seppola Tell, Tore Julsrud Berg - Journal of Patient-Reported Outcomes (2026-09-30)
 BACKGROUND: People with type 1 diabetes are burdened by musculoskeletal hand and shoulder diagnoses and vascular late complications. We aimed to explore associations of musculoskeletal diagnoses, 30-year HbA1c and vascular complications …</description>
       <guid>https://openalex.org/W7214971174</guid>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
@@ -202,6 +202,13 @@ Abstract Background In 2018, electronic death certification was gradually introd
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Transcriptomics of type 1 diabetes progression: a validation study in newly diagnosed patients</title>
+      <link>https://openalex.org/W7212104058</link>
+      <description>Suomi, T., Inna Starskaia, O. Rasool, Ubaid Ullah Kalim, S. Bruggraber, Maria Loredana Marcovecchio, E. Hendricks, L. Overbergh et al. - White Rose Research Online (University of Leeds, The University of Sheffield, University of York) (2026-08-01)</description>
+      <guid>https://openalex.org/W7212104058</guid>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Syntaxin-4, a key exocytosis mediating protein, shows heterogeneous expression in insulin-positive cells of human donors with new-onset and longer duration of type 1 diabetes: comparison with non-diabetic autoantibody-positive and -negative donors</title>
       <link>https://doi.org/10.1007/s10735-026-10901-4</link>
       <description>Joshua Potman, Kevin Xueying Sun, Kaaj Pala, Lars Krogvold, Knut Dahl‐Jørgensen, Shiva Reddy - Journal of Molecular Histology (2026-07-30)
@@ -231,14 +238,6 @@ BACKGROUND: Many patients pharmacologically treated for hypertension do not reac
       <description>Caroline Brito Nunes, David Evans, Caroline Brito Nunes, Gunn-Helen Moen - The University of Queensland (2026-07-14)
 Sex-stratified GWAS of basal metabolic rate (BMR), performed in UK Biobank participants of European ancestry. Individuals who withdrew consent or failed standard quality checks (e.g., sex mismatch, high heterozygosity, missingness, sex …</description>
       <guid>https://openalex.org/W7168239107</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sex-specific GWAS summary statistics for myocardial infarction from "Investigating the potential causal relationship between parity and long-term maternal cardiometabolic health outcomes using Mendelian randomization"</title>
-      <link>https://doi.org/10.48610/e0a514f</link>
-      <description>Caroline Brito Nunes, David Evans, Caroline Brito Nunes, Gunn-Helen Moen - The University of Queensland (2026-07-14)
-Sex-stratified GWAS of myocardial infarction, performed in UK Biobank participants of European ancestry. Case/control definitions are provided in Supplementary Table 3. Individuals who withdrew consent or failed standard quality checks …</description>
-      <guid>https://openalex.org/W7168259192</guid>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
