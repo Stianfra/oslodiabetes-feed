@@ -5,7 +5,7 @@
     <link>https://oslodiabetes.no</link>
     <description>Recent publications from researchers at Oslo Diabetes Research Centre.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 05:05:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 05:16:13 +0000</lastBuildDate>
     <item>
       <title>Embryonic EMT programs establish proteoglycan expression patterns that persist in adult human tissues</title>
       <link>https://doi.org/10.21203/rs.3.rs-11070727/v1</link>
@@ -58,6 +58,14 @@ Abstract Background Developmental stuttering affects up to 11% of children globa
       <description>Nanna Thurmann Jørgensen, Stina Willemoes Borresen, Linda Hilsted, Christina Christoffersen, Kasper Brødbæk, Randi Ugleholdt, Claus Larsen Feltoft, Line Koch Skaanning et al. - Frontiers in Endocrinology (2026-09-04)
 Purpose Assessment of cortisol secretion in patients with adrenal incidentalomas remains challenging. We evaluated the guideline-recommended cortisol cut-off value for cortisol suppression (50 nmol/L) following a 1 mg overnight …</description>
       <guid>https://openalex.org/W7208747769</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cardiovascular effects of continued vs. discontinued anabolic–androgenic steroid use: a longitudinal follow-up study</title>
+      <link>https://doi.org/10.1093/ehjci/jeag238</link>
+      <description>Rang Abdullah, Astrid Bjørnebekk, Ingunn R. Hullstein, Per Medbøe Thorsby, Thomas M. Helle-Valle, Thor Edvardsen, Kristina Hermann Haugaa, Vibeke Marie Almaas - European Heart Journal - Cardiovascular Imaging (2026-09-04)
+Abstract Aims Anabolic–androgenic steroid (AAS) use is prevalent among men engaged in strength training and is associated with adverse structural and functional cardiac changes, but longitudinal data are lacking. This follow-up study …</description>
+      <guid>https://openalex.org/W7221506221</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -231,14 +239,6 @@ The thymic epithelium consists of a diverse set of cells that generate tissue-re
 BACKGROUND: Many patients pharmacologically treated for hypertension do not reach blood pressure (BP) treatment targets. In Europe, a target of BP &lt; 130/80 mmHg has recently been recommended. Presently, the effect of combining …</description>
       <guid>https://openalex.org/W7169679368</guid>
       <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sex-specific GWAS summary statistics for basal metabolic rate (BMR) from "Investigating the potential causal relationship between parity and long-term maternal cardiometabolic health outcomes using Mendelian randomization"</title>
-      <link>https://doi.org/10.48610/2ebdb5a</link>
-      <description>Caroline Brito Nunes, David Evans, Caroline Brito Nunes, Gunn-Helen Moen - The University of Queensland (2026-07-14)
-Sex-stratified GWAS of basal metabolic rate (BMR), performed in UK Biobank participants of European ancestry. Individuals who withdrew consent or failed standard quality checks (e.g., sex mismatch, high heterozygosity, missingness, sex …</description>
-      <guid>https://openalex.org/W7168239107</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
