@@ -5,7 +5,15 @@
     <link>https://oslodiabetes.no</link>
     <description>Recent publications from researchers at Oslo Diabetes Research Centre.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 05:13:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 05:12:56 +0000</lastBuildDate>
+    <item>
+      <title>Altered glucagon and GIP responses in South Asian versus Nordic women after gestational diabetes mellitus</title>
+      <link>https://doi.org/10.1007/s00125-026-06898-w</link>
+      <description>Archana Sharma, Sindre Lee-Ødegård, Jens Juul Holst, Bolette Hartmann, A. Anita S. Kvist, Elisabeth Qvigstad, Stina Therese Sollid, Ingrid Nermoen et al. - Diabetologia (2026-10-16)
+Abstract Aims/hypothesis We aimed to compare ethnic differences in levels of glucagon, glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) following a pregnancy complicated by gestational diabetes …</description>
+      <guid>https://openalex.org/W7222457327</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Embryonic EMT programs establish proteoglycan expression patterns that persist in adult human tissues</title>
       <link>https://doi.org/10.21203/rs.3.rs-11070727/v1</link>
@@ -231,14 +239,6 @@ Syntaxin-4, a beta cell plasma membrane-anchored protein, attaches to beta cell 
 The thymic epithelium consists of a diverse set of cells that generate tissue-restricted antigens (TRAs) for presentation to developing thymocytes, ensuring selection of functional and self-tolerant T cell receptors. Combining single-cell …</description>
       <guid>https://openalex.org/W7171547858</guid>
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lifestyle modifications in individuals with blood pressure beyond treatment target despite pharmacological treatment: design and baseline characteristics of the MeDiPA randomised controlled trial</title>
-      <link>https://doi.org/10.1080/08037051.2026.2705014</link>
-      <description>Ana R.S. de Sousa, Tor Ole Klemsdal, Reza Ghiasvand, Mette Svendsen, Kåre I. Birkeland, Kari Anne Sveen - Blood Pressure (2026-07-18)
-BACKGROUND: Many patients pharmacologically treated for hypertension do not reach blood pressure (BP) treatment targets. In Europe, a target of BP &lt; 130/80 mmHg has recently been recommended. Presently, the effect of combining …</description>
-      <guid>https://openalex.org/W7169679368</guid>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
