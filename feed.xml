@@ -5,7 +5,7 @@
     <link>https://oslodiabetes.no</link>
     <description>Recent publications from researchers at Oslo Diabetes Research Centre.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 05:14:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 09:27:49 +0000</lastBuildDate>
     <item>
       <title>Altered glucagon and GIP responses in South Asian versus Nordic women after gestational diabetes mellitus</title>
       <link>https://doi.org/10.1007/s00125-026-06898-w</link>
@@ -20,6 +20,14 @@ AIMS/HYPOTHESIS: We aimed to compare ethnic differences in levels of glucagon, g
       <description>Saikat Das Sajib, Anne Kristin McLaren Berge, Taufeeq Nii Korquaye Quaye, Kjersti Sellæg, Beate Hegge, Catherine L.R. Merry, Svein O. Kolset, Susannah von Hofsten et al. - Research Square (2026-10-08)</description>
       <guid>https://openalex.org/W7220913350</guid>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Daycare attendance, breastfeeding, and risk of asthma in the prospective MoBa and DIPP birth cohorts</title>
+      <link>https://doi.org/10.1111/pai.70520</link>
+      <description>Susanna Tall, Aino K. Rantala, Hanna‐Mari Takkinen, Tuuli E. Korhonen, Minna Kaila, Ketil Størdal, German Tapia, Heikki Hyöty et al. - Pediatric Allergy and Immunology (2026-10-01)
+Abstract Background Daycare attendance and breastfeeding have been associated with asthma risk. However, it remains unclear whether the association between breastfeeding and asthma risk depends on daycare attendance. We investigated …</description>
+      <guid>https://openalex.org/W7223321399</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Hand and shoulder diagnoses are associated with substantial bodily pain compared to vascular complications and long-term glycaemic control in people with long-term type 1 diabetes.</title>
@@ -231,14 +239,6 @@ Abstract Background In 2018, electronic death certification was gradually introd
 Syntaxin-4, a beta cell plasma membrane-anchored protein, attaches to beta cell granules with two spatially-located nearby proteins, facilitating the fusion of beta cell-docked granules to the plasma membrane, followed by exocytotic …</description>
       <guid>https://openalex.org/W7171734396</guid>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multimodal single-cell profiling identifies nclTECs and links chromatin remodeling to TEC differentiation and self-antigen expression modes</title>
-      <link>https://doi.org/10.1016/j.isci.2026.116916</link>
-      <description>Hanne Sagsveen Hjorthaug, Marte Heimli, Siri T. Flåm, Benedicte Alexandra Lie - iScience (2026-07-29)
-The thymic epithelium consists of a diverse set of cells that generate tissue-restricted antigens (TRAs) for presentation to developing thymocytes, ensuring selection of functional and self-tolerant T cell receptors. Combining single-cell …</description>
-      <guid>https://openalex.org/W7171547858</guid>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
