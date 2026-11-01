@@ -5,7 +5,7 @@
     <link>https://oslodiabetes.no</link>
     <description>Recent publications from researchers at Oslo Diabetes Research Centre.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 10:38:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 11:31:37 +0000</lastBuildDate>
     <item>
       <title>Altered glucagon and GIP responses in South Asian versus Nordic women after gestational diabetes mellitus</title>
       <link>https://doi.org/10.1007/s00125-026-06898-w</link>
@@ -17,7 +17,8 @@ AIMS/HYPOTHESIS: We aimed to compare ethnic differences in levels of glucagon, g
     <item>
       <title>Embryonic EMT programs establish proteoglycan expression patterns that persist in adult human tissues</title>
       <link>https://doi.org/10.21203/rs.3.rs-11070727/v1</link>
-      <description>Saikat Das Sajib, Anne Kristin McLaren Berge, Taufeeq Nii Korquaye Quaye, Kjersti Sellæg, Beate Hegge, Catherine L.R. Merry, Svein O. Kolset, Susannah von Hofsten et al. - Research Square (2026-10-08)</description>
+      <description>Saikat Das Sajib, Anne Kristin McLaren Berge, Taufeeq Nii Korquaye Quaye, Kjersti Sellæg, Beate Hegge, Catherine L.R. Merry, Svein O. Kolset, Susannah von Hofsten et al. - Research Square (2026-10-08)
+Abstract Background Proteoglycans and glycosaminoglycans (GAGs) are essential for embryonic development and adult tissue homeostasis. Proteoglycan core proteins largely determine proteoglycan localization, whereas enzymes involved in GAG …</description>
       <guid>https://openalex.org/W7220913350</guid>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
     </item>
@@ -67,6 +68,13 @@ Extracellular particles (EPs), including extracellular vesicles, are emerging me
 Background: Developmental stuttering affects up to 11% of children globally, with around one-fifth developing a persistent lifelong stutter. Twin and family studies indicate a strong genetic contribution and comorbidity with other …</description>
       <guid>https://openalex.org/W7213457047</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dødsårsaksregisteret: Dødsårsaker i Norge 2025</title>
+      <link>https://doi.org/10.21349/050g-cb14</link>
+      <description>Marianne Sørlie Strøm, Kari Anne Sveen, Gunhild Forland Slungård, Solveig Helene Warhuus Eriksen - NVA, Norwegian Institute of Public Health (2026-09-09)</description>
+      <guid>https://openalex.org/W7224772391</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Plasma cortisol cut-off concentrations using the dexamethasone suppression test in patients with adrenal incidentalomas</title>
@@ -221,24 +229,16 @@ KEY POINTS: Donation of a kidney is regarded safe, although it may be associated
       <title>The impact of transition from paper to electronic death records on garbage codes in the Norwegian Cause of Death Registry 2018–2023</title>
       <link>https://doi.org/10.1186/s12889-026-28607-3</link>
       <description>Ingeborg Forthun, Christian Lycke Ellingsen, Carl Michael Baravelli, Kari Anne Sveen, Anne Gro Pedersen, Pétur Benedikt Júlíusson, Ann Kristin Knudsen, Marianne Sørlie Strøm - BMC Public Health (2026-08-03)
-Abstract Background In 2018, electronic death certification was gradually introduced in the Norwegian Cause of Death Registry (NCoDR). Electronic certification was made mandatory from 2022. This may have affected the use and pattern of …</description>
+BACKGROUND: In 2018, electronic death certification was gradually introduced in the Norwegian Cause of Death Registry (NCoDR). Electronic certification was made mandatory from 2022. This may have affected the use and pattern of ill-defined …</description>
       <guid>https://openalex.org/W7172246149</guid>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Transcriptomics of type 1 diabetes progression: a validation study in newly diagnosed patients</title>
-      <link>https://openalex.org/W7212104058</link>
-      <description>Suomi, T., Inna Starskaia, O. Rasool, Ubaid Ullah Kalim, S. Bruggraber, Maria Loredana Marcovecchio, E. Hendricks, L. Overbergh et al. - White Rose Research Online (University of Leeds, The University of Sheffield, University of York) (2026-08-01)</description>
-      <guid>https://openalex.org/W7212104058</guid>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Syntaxin-4, a key exocytosis mediating protein, shows heterogeneous expression in insulin-positive cells of human donors with new-onset and longer duration of type 1 diabetes: comparison with non-diabetic autoantibody-positive and -negative donors</title>
-      <link>https://doi.org/10.1007/s10735-026-10901-4</link>
-      <description>Joshua Potman, Kevin Xueying Sun, Kaaj Pala, Lars Krogvold, Knut Dahl‐Jørgensen, Shiva Reddy - Journal of Molecular Histology (2026-07-30)
-Syntaxin-4, a beta cell plasma membrane-anchored protein, attaches to beta cell granules with two spatially-located nearby proteins, facilitating the fusion of beta cell-docked granules to the plasma membrane, followed by exocytotic …</description>
-      <guid>https://openalex.org/W7171734396</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Additional file 1 of The impact of transition from paper to electronic death records on garbage codes in the Norwegian Cause of Death Registry 2018–2023</title>
+      <link>https://doi.org/10.6084/m9.figshare.34864625</link>
+      <description>Ingeborg Forthun, Christian Lycke Ellingsen, Carl Michael Baravelli, Kari Anne Sveen, Anne Gro Pedersen, Pétur Benedikt Júlíusson, Ann Kristin Knudsen, Marianne Sørlie Strøm - Figshare (2026-08-03)</description>
+      <guid>https://openalex.org/W7224882693</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
