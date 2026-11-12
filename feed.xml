@@ -5,7 +5,7 @@
     <link>https://oslodiabetes.no</link>
     <description>Recent publications from researchers at Oslo Diabetes Research Centre.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 12:14:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 13:20:13 +0000</lastBuildDate>
     <item>
       <title>Well-being and body-related insecurity are associated with cycling status in anabolic-androgenic steroid users</title>
       <link>https://doi.org/10.1038/s41598-026-79086-w</link>
@@ -13,6 +13,13 @@
 Anabolic-androgenic steroid (AAS) use has been associated with adverse psychological outcomes, yet little is known about how psychological functioning varies across on- and off-cycle phases within individuals. Adult male AAS users ( n = …</description>
       <guid>https://openalex.org/W7225155464</guid>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MRI-based volume assessments show no changes in hippocampus, amygdala, thalamus and brainstem subregions in narcolepsy type 1</title>
+      <link>https://doi.org/10.1016/j.sleep.2026.109355</link>
+      <description>Hilde T Juvodden, Dag Alnæs, Ingrid Agartz, Ole A. Andreassen, Andrés Server, Per Medbøe Thorsby, Lars Tjelta Westlye, Stine Knudsen - Sleep Medicine (2026-11-01)</description>
+      <guid>https://openalex.org/W7133201690</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Altered glucagon and GIP responses in South Asian versus Nordic women after gestational diabetes mellitus</title>
@@ -111,7 +118,7 @@ AIMS: Anabolic-androgenic steroid (AAS) use is prevalent among men engaged in st
       <title>Classification of type 1 diabetes and type 2 diabetes based on administrative registry data: a nationwide study from Norway</title>
       <link>https://doi.org/10.1177/14034948261460921</link>
       <description>Paz Lopez‐Doriga Ruiz, Lars C. Stene, Karianne Fjeld Løvaas, Grethe Åstrøm Ueland, Tone Vonheim Madsen, Kåre I. Birkeland, Hanne Løvdal Gulseth, Robert Wiik et al. - Scandinavian Journal of Public Health (2026-08-29)
-Abstract Background Type 1 diabetes (T1D) and type 2 diabetes (T2D) differ in health care needs, and precise prevalence estimates by diabetes type are important for health care planning. Data and Methods Using Norwegian health registry …</description>
+Background: Type 1 diabetes (T1D) and type 2 diabetes (T2D) differ in health care needs. Precise prevalence estimates by type are important for health care planning. Data and methods: This validation study used Norwegian health registry …</description>
       <guid>https://openalex.org/W4417126948</guid>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
     </item>
@@ -231,14 +238,6 @@ Supplementary Material 2: Additional file 2: Tables S1–S19.</description>
       <description>Grace M. Power, Tom A. Bond, Laxmi Bhatta, Bjørn Olav Åsvold, Ben Michael Brumpton, Giulio Centorame, Gibran Hemani, Debbie A. Lawlor et al. - Figshare (2026-08-05)
 Supplementary Material 1: Additional file 1: Supplementary information, Figures S1–S4.</description>
       <guid>https://openalex.org/W7225158714</guid>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Effects of maternal and paternal smoking on offspring cardiometabolic risk factors in adulthood: a multi-method intergenerational Mendelian randomization study</title>
-      <link>https://doi.org/10.6084/m9.figshare.c.8813563</link>
-      <description>Grace M. Power, Tom A. Bond, Laxmi Bhatta, Bjørn Olav Åsvold, Ben Michael Brumpton, Giulio Centorame, Gibran Hemani, Debbie A. Lawlor et al. - Figshare (2026-08-05)
-Abstract Background Parental smoking has been linked to several adverse offspring cardiometabolic outcomes; however, evidence is conflicting regarding the causal and long-term nature of these associations. Methods We investigated the …</description>
-      <guid>https://openalex.org/W7225206264</guid>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
