@@ -5,7 +5,7 @@
     <link>https://oslodiabetes.no</link>
     <description>Recent publications from researchers at Oslo Diabetes Research Centre.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 12:19:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 13:11:56 +0000</lastBuildDate>
     <item>
       <title>Barnediabetesregisteret har nådd en milepæl</title>
       <link>https://doi.org/10.4045/tidsskr.26.0714</link>
@@ -31,10 +31,31 @@ Anabolic-androgenic steroid (AAS) use has been associated with adverse psycholog
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>High levels of large HDL particles in long-term survivors of type 1 diabetes or familial hypercholesterolemia free from coronary heart disease events</title>
+      <link>https://doi.org/10.1016/j.atherosclerosis.2026.121954</link>
+      <description>Marte Narum, Jacob Juel Christensen, Torunn Melnes, Kirsten Bjørklund Holven, Tore Julsrud Berg, Kari Anne Sveen - Atherosclerosis (2026-11-01)</description>
+      <guid>https://openalex.org/W7230088535</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gestational trajectories of the lectin-pathway protein Ficolin-2 in pregnancies complicated by early- and late-onset preeclampsia: evidence from five maternal cohorts</title>
+      <link>https://doi.org/10.1016/j.placenta.2026.11.009</link>
+      <description>Trond Melbye Michelsen, Hilde Bastøe Sellevoll, Ane C. Westerberg, Maren-Helene Langeland Degnes, Manuela Zucknick, Tove Lekva, Annika Elisabet Michelsen, Thor Ueland et al. - Placenta (2026-11-01)</description>
+      <guid>https://openalex.org/W7228535598</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>MRI-based volume assessments show no changes in hippocampus, amygdala, thalamus and brainstem subregions in narcolepsy type 1</title>
       <link>https://doi.org/10.1016/j.sleep.2026.109355</link>
       <description>Hilde T Juvodden, Dag Alnæs, Ingrid Agartz, Ole A. Andreassen, Andrés Server, Per Medbøe Thorsby, Lars Tjelta Westlye, Stine Knudsen - Sleep Medicine (2026-11-01)</description>
       <guid>https://openalex.org/W7133201690</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Disease severity and treatment associations in narcolepsy type 1: a real-world long-term prospective cohort study</title>
+      <link>https://doi.org/10.1016/j.sleep.2026.109368</link>
+      <description>Kristin Langdalen, Louise Frøstrup Follin, Rannveig Viste, Janita Vevelstad, Ragnhild Kristin Berling Grande, Hilde T Juvodden, Nathalia Zak, Per Medbøe Thorsby et al. - Sleep Medicine (2026-11-01)</description>
+      <guid>https://openalex.org/W7229215337</guid>
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -216,29 +237,6 @@ Abstract Background Multiple observational studies have reported associations be
 Analysis and figure code for a study of the plasma extracellular particle-enriched proteome before and after 12 weeks of combined endurance and resistance training (MyoGlu). Includes the numeric source data behind the figure panels …</description>
       <guid>https://openalex.org/W7201991045</guid>
       <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Immigrant parents’ perspectives on healthy growth in children: a qualitative study</title>
-      <link>https://doi.org/10.1186/s12889-026-28788-x</link>
-      <description>Ingun Toftemo, Kari Glavin, Camilla Yogaseelan, Nilam Shakeel, Anne Karen Jenum, Anja Braend - BMC Public Health (2026-08-07)
-BACKGROUND: In many high-income countries, children with immigrant background exhibit a higher prevalence of obesity, compared to non-immigrant children. We explored the perspectives of immigrant-background parents regarding their …</description>
-      <guid>https://openalex.org/W7196939992</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Commentary: Central themes and insights from the Diabetes and Disordered Eating Conference 2025</title>
-      <link>https://doi.org/10.1111/dme.70431</link>
-      <description>Pil Lindgreen, Loa Clausen, Line Wisting, Khalida Ismail, Marietta Stadler, Bryan Richard Cleal - Diabetic Medicine (2026-08-06)</description>
-      <guid>https://openalex.org/W7196955575</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Effects of maternal and paternal smoking on offspring cardiometabolic risk factors in adulthood: a multi-method intergenerational Mendelian randomization study</title>
-      <link>https://doi.org/10.1186/s12916-026-05065-7</link>
-      <description>Grace M. Power, Tom A. Bond, Laxmi Bhatta, Bjørn Olav Åsvold, Ben Michael Brumpton, Giulio Centorame, Gibran Hemani, Debbie A. Lawlor et al. - BMC Medicine (2026-08-05)
-BACKGROUND: Parental smoking has been linked to several adverse offspring cardiometabolic outcomes; however, evidence is conflicting regarding the causal and long-term nature of these associations. METHODS: We investigated the effects of …</description>
-      <guid>https://openalex.org/W7172486639</guid>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
