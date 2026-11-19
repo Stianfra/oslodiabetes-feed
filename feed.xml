@@ -5,7 +5,29 @@
     <link>https://oslodiabetes.no</link>
     <description>Recent publications from researchers at Oslo Diabetes Research Centre.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 13:30:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 13:58:24 +0000</lastBuildDate>
+    <item>
+      <title>Associations between potential trigger foods and disease activity in patients with inflammatory bowel disease; a cross-sectional study</title>
+      <link>https://doi.org/10.3389/fnut.2026.1889382</link>
+      <description>Insaf Zerouga, Jørgen Valeur, Christine Sommer, Milada Hagen, Vendel Ailin Kristensen, Randi Opheim, Vibeke Strande, Charlotte Indre Lund et al. - Frontiers in Nutrition (2026-11-17)
+Introduction Patients with inflammatory bowel disease (IBD) often report one or more foods to cause or aggravate relapse, and tend to restrict intake of these foods. Some of the foods that patients avoid are suggested in the literature to …</description>
+      <guid>https://openalex.org/W7234708647</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Salivary metanephrines as markers of distress: exploration of the concept and reference intervals for hospitalised neonates</title>
+      <link>https://doi.org/10.1136/archdischild-2026-330641</link>
+      <description>Svetlana N. Zykova, Anna Plaksienko, Anne Lee Solevåg, Anne Karin Brigtsen, Trond Melbye Michelsen, Ingvil Krarup Sørbye, Mariann H. L. Bentsen, Tone Smetop et al. - Archives of Disease in Childhood Fetal &amp; Neonatal (2026-11-17)</description>
+      <guid>https://openalex.org/W7234869527</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gestational trajectories of the lectin-pathway protein Ficolin-2 in pregnancies complicated by early- and late-onset preeclampsia: evidence from five maternal cohorts</title>
+      <link>https://doi.org/10.1016/j.placenta.2026.11.009</link>
+      <description>Trond Melbye Michelsen, Hilde Bastøe Sellevoll, Ane C. Westerberg, Maren-Helene Langeland Degnes, Manuela Zucknick, Tove Lekva, Annika Elisabet Michelsen, Thor Ueland et al. - Placenta (2026-11-14)</description>
+      <guid>https://openalex.org/W7228535598</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Barnediabetesregisteret har nådd en milepæl</title>
       <link>https://doi.org/10.4045/tidsskr.26.0714</link>
@@ -44,13 +66,6 @@ Anabolic-androgenic steroid (AAS) use has been associated with adverse psycholog
       <description>Marte Narum, Jacob Juel Christensen, Torunn Melnes, Kirsten Bjørklund Holven, Tore Julsrud Berg, Kari Anne Sveen - Atherosclerosis (2026-11-01)
 Background and Aims Both individuals with type 1 diabetes and individuals with familial hypercholesterolemia (FH) are at increased risk of developing coronary heart disease (CHD). Nevertheless, some of these individuals appear to be free …</description>
       <guid>https://openalex.org/W7230088535</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gestational trajectories of the lectin-pathway protein Ficolin-2 in pregnancies complicated by early- and late-onset preeclampsia: evidence from five maternal cohorts</title>
-      <link>https://doi.org/10.1016/j.placenta.2026.11.009</link>
-      <description>Trond Melbye Michelsen, Hilde Bastøe Sellevoll, Ane C. Westerberg, Maren-Helene Langeland Degnes, Manuela Zucknick, Tove Lekva, Annika Elisabet Michelsen, Thor Ueland et al. - Placenta (2026-11-01)</description>
-      <guid>https://openalex.org/W7228535598</guid>
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -224,22 +239,6 @@ OBJECTIVE: Women with type 1 diabetes (T1D) tend to have fewer children and the 
 Abstract Introduction Fetal growth and birthweight are influenced by various endogenous and exogenous factors during pregnancy. Pregnant women with obesity face higher rates of complications, which can impact fetal growth. This study aims …</description>
       <guid>https://openalex.org/W7202284084</guid>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Investigating the potential causal relationship between parity and long-term maternal cardiometabolic health outcomes using Mendelian randomization</title>
-      <link>https://doi.org/10.64898/2026.08.09.26360053</link>
-      <description>Caroline Brito Nunes, Abigail Fraser, Gunn-Helen Moen, Alesha A. Hatton, David M. Evans - medRxiv (2026-08-11)
-Abstract Background Multiple observational studies have reported associations between greater parity and increased CVD risk. Whether these associations reflect causal effects or are confounded by socioeconomic factors remains unclear …</description>
-      <guid>https://openalex.org/W7202177122</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Analysis code: plasma extracellular particle-enriched proteome after exercise training</title>
-      <link>https://doi.org/10.5281/zenodo.21849646</link>
-      <description>Sindre Lee-Ødegård - Zenodo (CERN European Organization for Nuclear Research) (2026-08-08)
-Analysis and figure code for a study of the plasma extracellular particle-enriched proteome before and after 12 weeks of combined endurance and resistance training (MyoGlu). Includes the numeric source data behind the figure panels …</description>
-      <guid>https://openalex.org/W7201991045</guid>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
