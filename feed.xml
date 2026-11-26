@@ -5,7 +5,7 @@
     <link>https://oslodiabetes.no</link>
     <description>Recent publications from researchers at Oslo Diabetes Research Centre.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 15:03:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 14:33:11 +0000</lastBuildDate>
     <item>
       <title>A cross-sectional analysis of objectively recorded moderate-to-vigorous physical activity levels in a multi-ethnic sample of middle-aged women in Norway (2019–2022): exploring the role of one-versus three-dimensional accelerometer data and criteria for number of valid days</title>
       <link>https://doi.org/10.1186/s13690-026-02145-1</link>
@@ -33,7 +33,7 @@ Hvem skal ha testosteron?</description>
     <item>
       <title>Early-life Gut Virome Maturation and Association with Celiac Disease Development: a Nested Case-Control Study</title>
       <link>https://doi.org/10.21203/rs.3.rs-11713360/v1</link>
-      <description>Ulrika Boulund, Kateřina Chudá, Shiraz Ali Shah, German Tapia, Klára Hubáčková, Michaela Cermakova, Jutta E. Laiho, Jussi Lehtonen et al. - Research Square (2026-11-19)
+      <description>Ulrika Boulund, Kateřina Chudá, Shiraz Ali Shah, German Tapia, Klára Hubáčková, Michaela Cermakova, Jutta E. Laiho, Jussi P. Lehtonen et al. - Research Square (2026-11-19)
 The infant gut virome development and its role in autoimmune diseases are largely unexplored. Celiac disease (CeD) is increasing in incidence worldwide, and we recently reported that a higher frequency of enterovirus or parechovirus gut …</description>
       <guid>https://openalex.org/W7236662362</guid>
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
@@ -100,6 +100,38 @@ Inflammation contributes to the destabilization of atherosclerotic plaques and i
 STUDY OBJECTIVES: Narcolepsy type 1 (NT1) is characterized by excessive daytime sleepiness and cataplexy. Previous studies have implicated the amygdala, thalamus, brainstem and hippocampus in the pathophysiology of NT1. We here aimed to …</description>
       <guid>https://openalex.org/W7133201690</guid>
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Genome-wide scan for transmission ratio distortion in trios from the Norwegian MoBa cohort rules out moderate distortion at common variants</title>
+      <link>https://doi.org/10.1186/s13059-026-04333-2</link>
+      <description>Shannon D’Urso, Elizabeth C. Corfield, Laurie J. Hannigan, Ole A. Andreassen, Astanand Jugessur, Kasper Munch, George Davey Smith, Gibran Hemani et al. - Genome biology (2026-11-05)
+Transmission ratio distortion has been demonstrated in model organisms but is understudied in humans. We conduct single- and multi-locus transmission disequilibrium tests to detect transmission ratio distortion in up to 43,829 …</description>
+      <guid>https://openalex.org/W7225309578</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Glycemic outcomes and automated insulin delivery in over 140 000 children with type 1 diabetes: a 5-year longitudinal follow-up from paediatric diabetes registries</title>
+      <link>https://doi.org/10.1159/hrp/adaag020.024</link>
+      <description>Vít Neuman, Zdenĕk Šumník, O Cinek, Beate Karges, B Rami-Merhar, Siv Janne Kummernes, Nicolai A. Lund‐Blix, Torild Skrivarhaug et al. - Hormone Research in Paediatrics (2026-11-04)
+Introduction Throughout recent years, diabetes control have improved significantly in children and adolescents with type 1 diabetes (CwD), partly due to technological advances. Objectives The aim of this study was to perform a longitudinal …</description>
+      <guid>https://openalex.org/W7225255427</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Effects of the diabetes body project, an eating disorder prevention program for women with type 1 diabetes, at 1-year Follow-Up: a randomized trial</title>
+      <link>https://doi.org/10.1159/hrp/adaag020.056</link>
+      <description>Maartje de Wit, Eric M. Stice, Mareille H.C.L. Hennekes, Severina Haugvik, E Toschi, Line Wisting - Hormone Research in Paediatrics (2026-11-04)
+Introduction Young women with type 1 diabetes are at increased risk of eating disorders (ED) and disordered eating behaviors. The dissonance-based Diabetes Body Project prevention program showed to reduces ED risk factors and symptoms …</description>
+      <guid>https://openalex.org/W7225264278</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Parents’ experiences and perceived needs in follow-up of young children with type 1 diabetes: a qualitative study</title>
+      <link>https://doi.org/10.1159/hrp/adaag020.267</link>
+      <description>H S Borkamo, N Handelsby, R S Gamlestøl, Line Wisting, Torild Skrivarhaug, Anne Haugstvedt - Hormone Research in Paediatrics (2026-11-04)
+Introduction Managing type 1 diabetes (T1D) in young children (&lt;8 years) is recognized as a demanding and complex task for parents. Continuous glucose monitoring (CGM) and automated insulin delivery (AID) systems have transformed clinical …</description>
+      <guid>https://openalex.org/W7225276074</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Well-being and body-related insecurity are associated with cycling status in anabolic-androgenic steroid users</title>
@@ -175,7 +207,7 @@ Extracellular particles (EPs), including extracellular vesicles, are emerging me
     <item>
       <title>Unravelling the genetic basis of stuttering: GWAS meta-analysis highlights link with rare speech disorders</title>
       <link>https://doi.org/10.64898/2026.09.15.26363183</link>
-      <description>Victoria E. Jackson, Jenna J. Shin, Sarah Horton, Jessica O. Boyce, Else Eising, Olivia van Reyk, Richard Parker, Daisy G.Y. Thompson-Lake et al. - medRxiv (2026-09-16)
+      <description>Victoria E. Jackson, Jenna J. Shin, Sarah E Horton, Jessica O. Boyce, Else Eising, Olivia van Reyk, Richard Parker, Daisy G.Y. Thompson-Lake et al. - medRxiv (2026-09-16)
 Developmental stuttering affects up to 11% of children, with around one-fifth developing a persistent stutter. Twin and family studies indicate a strong genetic contribution and comorbidity with other heritable traits, but the common …</description>
       <guid>https://openalex.org/W7213457047</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
@@ -209,38 +241,6 @@ Purpose: Assessment of cortisol secretion in patients with adrenal incidentaloma
 OBJECTIVES: Familial nonautoimmune hyperthyroidism (FNAH) is a rare disorder caused by activating germline variants in the thyroid-stimulating hormone receptor gene (TSHR) and can mimic antibody-negative Graves' disease. We report a family …</description>
       <guid>https://openalex.org/W7204647805</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Classification of type 1 diabetes and type 2 diabetes based on administrative registry data: a nationwide study from Norway</title>
-      <link>https://doi.org/10.1177/14034948261460921</link>
-      <description>Paz Lopez‐Doriga Ruiz, Lars C. Stene, Karianne Fjeld Løvaas, Grethe Åstrøm Ueland, Tone Vonheim Madsen, Kåre I. Birkeland, Hanne Løvdal Gulseth, Robert Wiik et al. - Scandinavian Journal of Public Health (2026-08-29)
-BACKGROUND: Type 1 diabetes (T1D) and type 2 diabetes (T2D) differ in health care needs. Precise prevalence estimates by type are important for health care planning. DATA AND METHODS: This validation study used Norwegian health registry …</description>
-      <guid>https://openalex.org/W4417126948</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rotavirus vaccination and incidence of type 1 diabetes: a population-based natural experiment</title>
-      <link>https://doi.org/10.1007/s00125-026-06832-0</link>
-      <description>Maria Östman, Ketil Størdal, German Tapia, Lars C. Stene - Diabetologia (2026-08-28)
-AIMS/HYPOTHESIS: Environmental factors, including infections, have been suspected to influence the risk of type 1 diabetes. Studies of rotavirus vaccine and risk of type 1 diabetes have shown conflicting results. We took advantage of the …</description>
-      <guid>https://openalex.org/W7204545893</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Perioperative propranolol during robotic‐assisted radical prostatectomy: A randomised, double‐blind, placebo‐controlled, pilot trial (PeP‐RALP)</title>
-      <link>https://doi.org/10.1002/bco2.70267</link>
-      <description>Shivanthe Sivanesan, H. Ramberg, Thomas Kristiansen, Suraj Bahadur Thapa, Marthe Bjøre, Viktor Berge, Fredrik Ottosson, Bjørn Brennhovd et al. - BJUI Compass (2026-08-26)
-Objective: This study aimed to determine the feasibility and safety of administering perioperative propranolol, as an adjunct to reduce prostate cancer recurrence, in patients undergoing robotic-assisted laparoscopic prostatectomy (RALP) …</description>
-      <guid>https://openalex.org/W7204484005</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hypoimmune platforms: from rejection to immune evasion and regulatory implications</title>
-      <link>https://doi.org/10.3389/ti.2026.16845</link>
-      <description>Francesco Campo, Maria Irene Bellini, Hanne Scholz, Lorenzo Piemonti, Antonio Citro - Transplant International (2026-08-25)
-The growing gap between organ demand and clinical availability has renewed interest in immune-evasive graft strategies, yet rejection and lifelong immunosuppression remain major barriers to durable success. Advances in genome editing …</description>
-      <guid>https://openalex.org/W7204205755</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
